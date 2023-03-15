@@ -1,0 +1,15 @@
+ARGS:ArgsCode
+BOP:BopCode
+CALL:CallCode
+FALSEBRANCH:FalsebranchCode
+GOTO:GotoCode
+HALT:HaltCode
+LABEL:LabelCode
+LIT:LitCode
+LOAD:LoadCode
+POP:PopCode
+READ:ReadCode
+RETURN:ReturnCode
+STORE:StoreCode
+WRITE:WriteCode
+DBG:DbgCode
